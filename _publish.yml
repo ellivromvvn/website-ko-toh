@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: dd2a2eac-ff18-4483-aaa3-358c66337ba8
+      url: 'https://mild-orville.quarto.pub/the-coolest-website-of-all'
